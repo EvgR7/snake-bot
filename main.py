@@ -5,7 +5,7 @@ from aiogram.filters import Command
 from dotenv import load_dotenv
 import os
 from snake import Snake
-from is_text import IsText
+#from is_text import IsText
 from config import FIELD_WIDTH, FIELD_HEIGHT
 from game import Game
 from render import render
